@@ -40,8 +40,7 @@ cd myvim && make all
 │       │   ├── general.vim
 │       │   └── ...
 │       └── repos
-│           ├── markdown-preview
-│           └── vim-moonfly-statusline
+│           └── markdown-preview
 ├── .vimrc
 ├── Makefile
 └── README.md
@@ -75,6 +74,8 @@ Usage:
 
 * [ervandew/supertab](https://github.com/ervandew/supertab) - Perform all your vim insert mode completions with Tab
 
+* [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
+
 * [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - All the world's indeed a stage and we are merely players
 
 * [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - A Vim alignment plugin
@@ -92,3 +93,7 @@ Usage:
 * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 
 * [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
+
+* [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+
+* [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
