@@ -1,2 +1,2 @@
-let g:NERDTreeQuitOnOpen=1
-let g:NERDTreeIgnore=['\.pyc$', '\~$']
+let g:NERDTreeQuitOnOpen = 1
+let g:NERDTreeIgnore = ['\.pyc$', '\~$']

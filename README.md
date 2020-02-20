@@ -86,13 +86,13 @@ Usage:
 
 * [othree/eregex.vim](https://github.com/othree/eregex.vim) - Perl/Ruby style regexp notation for Vim
 
+* [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+
 * [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim
 
 * [skywind3000/gutentags_plus](https://github.com/skywind3000/gutentags_plus) - The right way to use gtags with gutentags
 
 * [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-
-* [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 
 * [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 
