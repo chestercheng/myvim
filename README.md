@@ -22,8 +22,6 @@ cd myvim && make all
 ```
 .
 ├── .vim
-│   ├── colors
-│   │   └── zenburn.vim
 │   ├── dein
 │   │   ├── .cache
 │   │   └── repos
@@ -69,6 +67,8 @@ Usage:
 ## Plugins
 
 * [djoshea/vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
+
+* [dracula/vim](https://github.com/dracula/vim) - Dark theme for Vim https://draculatheme.com/vim
 
 * [ekalinin/Dockerfile.vim](https://github.com/ekalinin/Dockerfile.vim) - Vim syntax file & snippets for Docker's Dockerfile
 
