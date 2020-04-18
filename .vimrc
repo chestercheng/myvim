@@ -14,6 +14,7 @@ if dein#load_state('$HOME/.vim/dein')
   " Add plugins
   call dein#add('$HOME/.vim/user/repos/markdown-preview', {'on_ft': 'markdown'})
   call dein#add('djoshea/vim-autoread')
+  call dein#add('dracula/vim')
   call dein#add('ekalinin/Dockerfile.vim', {'on_ft': 'dockerfile'})
   call dein#add('ervandew/supertab')
   call dein#add('hashivim/vim-terraform', {'on_ft': 'terraform'})

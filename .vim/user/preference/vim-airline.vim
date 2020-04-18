@@ -1,4 +1,4 @@
-let g:airline_theme = 'zenburn'
+let g:airline_theme = 'dracula'
 
 if !exists('g:airline_symbols')
   let g:airline_symbols = {}
